@@ -1,9 +1,9 @@
-189.5.22.108
+﻿189.5.22.108
 
 SENHA WI-FI
 GabrielArruda
 
-SENHA ORIGIN-COM LETRA MAISCULA NO COME�o !!!
+SENHA ORIGIN-COM LETRA MAISCULA NO COMEÇo !!!
 
 Glory and Approbation to Diablo - Lord of Terror
 
@@ -43,4 +43,5 @@ Crystal A:60k
 Crystal S:???
 
 brunoassassi2	senha bruno666
+<<<<<<< HEAD
 watdueman
